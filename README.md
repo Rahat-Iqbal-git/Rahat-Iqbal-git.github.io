@@ -1,2 +1,2 @@
 Here is my portfolio url -
-rahatiqbal.netlify.app/
+https://www.rahatiqbal.netlify.app/
